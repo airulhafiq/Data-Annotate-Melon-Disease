@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['CMV', 'SLCV', 'alternaria leaf blight', 'bacterial wilt', 'downy mildew', 'healthy', 'powdery mildew']
